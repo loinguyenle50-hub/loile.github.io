@@ -6,18 +6,9 @@
 
 <br>
 
-```bash
-~ $ cat about.sh
-
-name      = "loidev"
-based_in  = "Ho Chi Minh City, Vietnam"
-building  = "Mobile app and website landing page, e commerce site"
-learning  = "coding, designing, editing"
-ask_me_about = ["coding", "learning", "tips"]
-reach_me  = "email: loinguyenle50@gmail.com"
-
-~ $ _
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/loinguyenle50-hub/loinguyenle50-hub/main/assets/terminal.svg" width="720" alt="about loidev" />
+</p>
 
 <br>
 
@@ -49,6 +40,10 @@ reach_me  = "email: loinguyenle50@gmail.com"
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00FFB2/loinguyenle50-hub" alt="contributions" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/loinguyenle50-hub/loinguyenle50-hub/main/assets/gitlab-contributions.svg" alt="gitlab contributions" width="90%" />
 </p>
 
 <br>
